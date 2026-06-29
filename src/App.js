@@ -284,7 +284,7 @@ export default function App() {
       {/* FOOTER SOCIAL LINKS */}
       <footer className="portfolio-footer">
         <div className="footer-socials">
-          <a href="https://github.com/BlesseJulian" className="social-icon-link">
+          <a href="https://github.com/BlessedJulian" target="_blank" rel="noopener noreferrer" className="social-icon-link">
             <FaGithub size={18} />
           </a>
           <a href="https://linkedin.com/in/yourusername" className="social-icon-link">
